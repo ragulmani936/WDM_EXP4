@@ -38,8 +38,9 @@ for group, condition in age_groups.items():
 
 ```
 ### Output:
-![image](https://github.com/Prethiveerajan/WDM_EXP4/assets/94233064/98a7db22-e5f0-4dba-a0e0-d1a0df0c31b4)
 
+
+![img1](https://github.com/ragulmani936/WDM_EXP4/assets/94881918/23615454-6032-4c83-9e92-de02f8aa7e36)
 
 
 
@@ -61,8 +62,8 @@ plt.title('Visitor Distribution Across Age Groups')
 plt.show()
 ```
 ### Output:
-![image](https://github.com/Prethiveerajan/WDM_EXP4/assets/94233064/cd769727-352f-455c-8074-ca2ab0401fcb)
 
+![img2](https://github.com/ragulmani936/WDM_EXP4/assets/94881918/3db006df-5e21-4bf2-a5a7-7846b932a160)
 
 
 ### Result:
